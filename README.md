@@ -15,3 +15,8 @@ Add a bookmark to your bookmarks bar with the URL:
 # More Information
 To see information about the motivation of this project, please refer to:
 [Lower the Barrier](http://brianchang.info/2016/01/04/lower-the-barrier.html)
+
+# Overall Design
+- Extract out the content from a particular page
+- Perform the replacement of difficult words with easier ones
+- Insert it back into the page
